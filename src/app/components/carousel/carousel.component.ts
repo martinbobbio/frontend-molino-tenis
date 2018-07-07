@@ -17,8 +17,12 @@ export class CarouselComponent implements OnInit {
       let swiper = new Swiper ('.swiper-container.swiper-carousel', {
         pagination: '.swiper-pagination',
         paginationClickable: true,
+        autoplay: 3000,
+        loop:false,
         spaceBetween: 0,
         slidesPerView: 1,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
         });
       },1);
 
