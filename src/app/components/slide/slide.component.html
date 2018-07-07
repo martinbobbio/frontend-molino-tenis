@@ -1,0 +1,21 @@
+<div *ngIf="!mobile" class="header-unit">
+  <div id="video-container">
+      <iframe allowfullscreen allow="autoplay; fullscreen" src="https://www.youtube.com/embed/fUyhFMT45U8?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=fUyhFMT45U8" frameborder="0"></iframe>
+      <div style="position:absolute; left:20%;top:15%">
+        <h2 class="text-primary bold">Bienvenido a nuestro club.</h2>
+        <ul class="text-primary bold">
+          <li>Alquileres</li>
+          <li>Clases</li>
+          <li>Torneos</li>
+          <li>Interclubes</li>
+          <li>Escuela para infantiles</li>
+        </ul>
+      </div>
+      <div style="background:#bdbdbd ;position:absolute;height: 100%;width: 100%;opacity: .25;">
+      </div>
+  </div>
+</div>
+<div *ngIf="mobile">
+  <app-carousel></app-carousel>
+</div>
+  

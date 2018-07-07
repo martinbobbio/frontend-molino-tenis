@@ -7,11 +7,25 @@ import { FormsModule, ReactiveFormsModule }   from '@angular/forms';
 //COMPONENTES
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
+import { SlideComponent } from './components/slide/slide.component';
+import { HomeComponent } from './components/home/home.component';
+import { BannerComponent } from './components/banner/banner.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { MapComponent } from './components/map/map.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    SlideComponent,
+    HomeComponent,
+    BannerComponent,
+    ContactComponent,
+    MapComponent,
+    FooterComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,

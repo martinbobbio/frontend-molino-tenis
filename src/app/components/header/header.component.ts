@@ -7,9 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
+  mobile = false;
+
   constructor() { }
 
   ngOnInit() {
+    var isMobile = window.matchMedia("only screen and (max-width: 960px)");
+    if (isMobile.matches) {
+        this.mobile = true;
+    }
   }
 
 }
