@@ -4,6 +4,9 @@ import { NgModule } from '@angular/core';
 import { HttpModule } from '@angular/http';
 import { FormsModule, ReactiveFormsModule }   from '@angular/forms';
 
+//PROVIDERS
+import { EmailService } from './providers/email'
+
 //COMPONENTES
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
@@ -33,7 +36,9 @@ import { CarouselComponent } from './components/carousel/carousel.component';
     FormsModule,
     ReactiveFormsModule,
   ],
-  providers: [],
+  providers: [
+    EmailService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

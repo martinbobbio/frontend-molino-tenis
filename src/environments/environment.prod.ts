@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production:true,
+  backUrl: "http://admin.molinotenis.com/web/app_dev.php",
 };
