@@ -13,5 +13,5 @@ Página comercial para el Molino tenis de Hurlingham.
 
 ## Capturas
 
-![Image of pagina](capturas/home.png)
+![Image of pagina](src/assets/images/captura.png)
 
