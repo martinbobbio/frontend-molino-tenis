@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/martinbobbio/frontend-molino-tenis/master/src/assets/images/logo%20molino.png" alt="Molino" width="200">
   <br>
-  El Molino
+  El Molino - Página
   <br>
 </h1>
 
