@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="WeatherApp" width="200">
+  <img src="https://raw.githubusercontent.com/martinbobbio/frontend-molino-tenis/master/src/assets/images/logo%20molino.png" alt="Molino" width="200">
   <br>
   El Molino
   <br>
