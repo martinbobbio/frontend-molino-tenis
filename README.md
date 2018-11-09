@@ -12,11 +12,14 @@
 </h4>
 
 
-## Descripción
+# Descripción
 
 Página comercial para el Molino tenis de Hurlingham.
 
-## Capturas
+# Capturas
+
+
+### Inicio
 
 ![Image of pagina](src/assets/images/captura.png)
 
