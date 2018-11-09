@@ -8,7 +8,7 @@
 <h4 align="center">
   <a href="https://github.com/martinbobbio/backend-molino-tenis">El Molino - Backend</a>
    -  
-  <a href="https://github.com/martinbobbio/app-molino-tenis">El Molino - Mobile</a>
+  <a href="https://github.com/martinbobbio/app-molino-tenis">El Molino - APP</a>
 </h4>
 
 
