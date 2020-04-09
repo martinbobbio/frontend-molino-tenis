@@ -15,6 +15,7 @@
 # Descripción
 
 Página comercial para el Molino tenis de Hurlingham.
+Tecnologias: Angular y Bootstrap
 
 # Capturas
 
