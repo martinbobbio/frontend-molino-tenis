@@ -84,6 +84,9 @@
           "configurations": {
             "production": {
               "browserTarget": "el-molino:build:production"
+            },
+            "docker": {
+              "browserTarget": "el-molino:build:docker"
             }
           }
         },
@@ -137,6 +140,9 @@
           "configurations": {
             "production": {
               "devServerTarget": "el-molino:serve:production"
+            },
+            "docker": {
+              "devServerTarget": "el-molino:serve:docker"
             }
           }
         },
